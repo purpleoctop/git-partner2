@@ -1,2 +1,1 @@
-# git-partner2
-task1
+Guja changed this file .
